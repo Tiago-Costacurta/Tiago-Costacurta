@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tiago-Costacurta
 - 👀 I’m interested in JavaScript, pyton, infrastructure, network
-- 🌱 I’m currently learning html5, css3, JS.
+- 🌱 I’m currently learning HTML5, CSS3, JS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tiagocostacurta@gmail.com
 
